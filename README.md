@@ -13,7 +13,8 @@ Data Visualization
 Predictive Modeling
 Hyperparameter Tuning
 Flask integration
-Technologies Used:
+
+# Technologies Used:
 Type	Used
 Language	Python 3.7
 IDE	PyCharm
